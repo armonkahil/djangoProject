@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+body {
+    background: dodgerblue url("images/UNC-Battered-Ram.jpg") no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
