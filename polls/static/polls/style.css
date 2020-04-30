@@ -1,8 +1,8 @@
-li a {
-    color: green;
+.container {
+  background: dodgerblue url('https://media.giphy.com/media/C4YFuLE3mqvo4/giphy.gif') no-repeat;
+  background-size: contain;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-body {
-    background: dodgerblue url("images/UNC-Battered-Ram.jpg") no-repeat;
-    background-size: cover;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+li a {
+  color: green;
 }
